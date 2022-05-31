@@ -17,9 +17,14 @@ I have created an online store named " Level-up Lifestyle " using boot strap fra
 
 Primary Azure Technology - Static Web Apps, Web Apps,
 
+# Screenshots
+
 ![Screenshot (372)](https://user-images.githubusercontent.com/77123160/171273858-3505a3e3-3e9a-4c2d-8271-36744124ab02.png)
+
 ![Screenshot (373)](https://user-images.githubusercontent.com/77123160/171273879-188ccde3-9c39-46d5-9b9e-987a6c992c6c.png)
+
 ![Screenshot (374)](https://user-images.githubusercontent.com/77123160/171273935-4c448ec6-13cf-45a4-9fce-aab0993ed649.png)
+
 ![Screenshot (375)](https://user-images.githubusercontent.com/77123160/171273942-5b9d6322-f129-4ba4-a7f7-94b4bc7678a9.png)
 
 
