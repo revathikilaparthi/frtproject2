@@ -1,4 +1,4 @@
-# Level-Up Lifestyle Website 
+# Level-Up Lifestyle Website using Microsoft Azure Technologies
 Web Technologies used - HTML, CSS, JS, Bootstrap
 
 IDE - VS-Code
