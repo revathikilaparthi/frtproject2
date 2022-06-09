@@ -1,5 +1,9 @@
 # ["Level-Up Lifestyle" Website using Microsoft Azure Technologies](https://jolly-sand-0b9be0e10.1.azurestaticapps.net)
 
+Project Link : https://jolly-sand-0b9be0e10.1.azurestaticapps.net
+
+Demo Video : https://vimeo.com/718651949
+
 Web Technologies used - HTML, CSS, JS, Bootstrap
 
 IDE - VS-Code
